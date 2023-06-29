@@ -3,7 +3,7 @@
 
   
   ## Description 
-  This project allows you to  make a logo quickly without the help of a graphic designer. It uses inquir eto  build a prompt and  an  SVG to create the image.
+This project allows you to  make a logo quickly without the help of a graphic designer. It uses inquire to  build a prompt, jest for testing an SVG to create the image.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,13 +14,13 @@
   * [Questions](#questions)
   
   ## Installation 
-  I started with a gitnore file, then I installed inquire to create the prompts, jest to allow for testing, SVG files to create the colors, shapes and test colors, and then I wrote the index.js file to execute the code.
+I started with a gitignore file, then I installed inquire to create the prompts, jest to allow for testing, SVG files to create the colors, shapes and text colors, and then I wrote the index.js file to execute the code.
 
   ## Usage 
-  First, you want to test it. You do this by pulling up the terminal and typing npm run test. Then you type node index.js and fill out the prompt. 
+First, you want to test it. You do this by pulling up the terminal and typing npm run test. Then you type node index.js and fill out the prompt. Once you've completed the prompt, an SVG file will be created. 
 
-  ## License 
-  This project is license under MIT
+## License 
+This project is license under MIT
 
   ## Contributing 
   n/a
